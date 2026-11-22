@@ -4,7 +4,6 @@
 **Faculty:** Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA (UiTM)
 **Group:** Group 1 
 **Lecturer:** Muhamad Ridhwan Bin Mohamad Razali
-**Proposal Document:** `CSC584 Project Proposal (2025126993).pdf
 
 ---
 
